@@ -77,9 +77,9 @@ prevent_sleep=true
 
 ### 명령어
 
-'cmd'
-taskkill /F /IM background_alarm.exe
-'/cmd'
+- 명령어로도 끌 수 있습니다.
+- 실행 또는 cmd 실행 후
+  - taskkill /F /IM background_alarm.exe
 
 ---
 
