@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['hourly_chime.pyw'],
+    ['background_alarm.pyw'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -21,7 +21,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='hourly_chime',
+    name='background_alarm',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
