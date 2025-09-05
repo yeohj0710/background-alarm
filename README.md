@@ -18,7 +18,7 @@ Windows에서 **정해진 주기마다 MP3 알람을 백그라운드에서 자�
 
 ## 설치 및 실행 방법
 
-1. 최신 릴리스에서 `background_alarm.exe`를 다운로드합니다.
+1. `background-alarm.zip`를 다운로드합니다. (zip 하나만 다운받으면 됨)
 2. 같은 폴더에 다음 파일들을 둡니다:
    - `background_alarm.exe` (실행 파일)
    - `settings.ini` (설정 파일)
