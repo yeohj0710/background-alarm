@@ -29,18 +29,17 @@ Windows에서 **정해진 주기마다 MP3 알람을 백그라운드에서 자�
 
 ## settings.ini 설정 방법
 
-프로그램은 같은 폴더의 `settings.ini` 파일을 읽어 설정합니다.  
+프로그램은 같은 폴더의 `settings.ini` 파일을 읽어 설정합니다.
+
 예시:
 
-'app'
-mp3=alarm.mp3
-test_mode=false
-test_interval_sec=20
-interval_sec=3600
-align=clock
-play_limit_sec=0
-prevent_sleep=true
-'/app'
+- mp3=alarm.mp3
+- test_mode=false
+- test_interval_sec=20
+- interval_sec=3600
+- align=clock
+- play_limit_sec=0
+- prevent_sleep=true
 
 ### 설정값 설명
 
